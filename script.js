@@ -283,12 +283,12 @@ function createTypingIndicator() {
     '<div class="avatar">' +
       '<div class="ai-icon">' +
         // 注意：请将下面的路径替换为您实际的PNG图片路径
-        '<img src="D:/桌面文件/素材/AI头像.png" width="24" height="24" alt="AI头像">' +
+        '<img src="https://i.postimg.cc/g0zdGspF/AI.png" width="24" height="24" alt="AI头像">' +
       '</div>' +
     '</div>' +
     '<div class="message-content">' +
       '<div class="message-header">' +
-        '<span class="ai-name">小芒AI</span>' + // 保持统一的AI名称
+        '<span class="ai-name">抖小芒AI</span>' + // 保持统一的AI名称
       '</div>' +
       '<div class="message-text">' +
         '<div class="typing-dots">' +
@@ -366,7 +366,7 @@ function createAIMessage(text) {
     '<div class="avatar">' +
       '<div class="ai-icon">' +
         // 注意：请将下面的路径替换为您实际的PNG图片路径
-        '<img src="D:/桌面文件/素材/AI头像.png" width="24" height="24" alt="AI头像">' +
+        '<img src="https://i.postimg.cc/g0zdGspF/AI.png" width="24" height="24" alt="AI头像">' +
       '</div>' +
     '</div>' +
     '<div class="message-content">' +
