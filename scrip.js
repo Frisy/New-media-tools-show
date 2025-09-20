@@ -68,9 +68,9 @@ function initFeatureToggle() {
   // AI翻译功能切换
   const translateItems = document.querySelectorAll('#ai-translate .text-item');
   const translateImages = [
-    'D:/桌面文件/素材/图12.png',
-    'D:/桌面文件/素材/图10.png',
-    'D:/桌面文件/素材/图11.png'
+    'https://i.postimg.cc/3ws0wW8H/12.png',
+    'https://i.postimg.cc/R06n9wzR/10.png',
+    'https://i.postimg.cc/Px1pvhJv/11.png'
   ];
   
   for (let i = 0; i < translateItems.length; i++) {
